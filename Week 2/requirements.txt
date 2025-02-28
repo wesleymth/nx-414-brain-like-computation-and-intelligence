@@ -1,8 +1,8 @@
 # This file lists all the packages that are installed in the environment.
 # Run the following command to install the packages in a new environment:
 # $ conda create --name <env> --file <this file>
-# appnope==0.1.4
-# asttokens==2.4.1
+appnope==0.1.4
+asttokens==2.4.1
 # bzip2==1.0.8
 # ca-certificates==2024.2.2
 comm==0.2.1
@@ -49,7 +49,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.2
 pygments==2.17.2
 pyparsing==3.1.1
-# python==3.10.13s
+# python==3.10.13
 python-dateutil==2.8.2
 pyzmq==25.1.2
 # readline==8.2
@@ -59,7 +59,7 @@ setuptools==68.2.2
 six==1.16.0
 # sqlite==3.41.2
 stack_data==0.6.2
-# threadpoolctl==3.3.0
+threadpoolctl==3.3.0
 # tk==8.6.12
 tornado==6.3.3
 tqdm==4.66.2
@@ -70,6 +70,6 @@ wcwidth==0.2.13
 wheel==0.41.2
 widgetsnbextension==4.0.10
 # xz==5.4.5
-# zeromq==4.3.5
+zeromq==4.3.5
 zipp==3.17.0
 # zlib==1.2.13
